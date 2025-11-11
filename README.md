@@ -69,7 +69,7 @@
 - Developed the full-stack platform **Sexo** (React Native / NestJS / React) for the Ministry of Education, providing interactive sexual education with secure APIs, a dashboard, and architecture meeting confidentiality standards.
 - Built the service marketplace **Vallauris** (NestJS / Next.js): role-based dashboards, multi-vendor management, integrated payments, for the French region.
 
-### [BICC_Stage de perfectionnement (Jan 2025 – Feb 2025)](https://github.com/Linaezzar1/StagePerfectionnement-FullProject)
+### BICC_Stage de perfectionnement (Jan 2025 – Feb 2025)
 
 **Overview:** Developed the full web app mbessi.com (appointments, blog, e-commerce, events).
 
