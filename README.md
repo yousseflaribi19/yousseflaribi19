@@ -95,7 +95,7 @@
 
 ---
 
-### [✨ Open2Win](https://github.com/Linaezzar1/O2W-FullProject)
+### [✨ Open2Win](https://github.com/yousseflaribi19/O2W-FullProject.git)
 **Overview:** Web platform that allows users to buy and open surprise boxes featuring a variety of products.
 
 **🛠️ Tech Stack:**  
