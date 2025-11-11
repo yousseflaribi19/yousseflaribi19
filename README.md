@@ -106,7 +106,7 @@
 
 ---
 
-### [📱 Smatch](https://github.com/Linaezzar1/Smatch-FullProject)
+### [📱 Smatch](https://github.com/yousseflaribi19/Smatch_FullProject.git)
 **Overview:** Smatch is a mobile and web platform for managing volleyball matches and tournaments, with an integrated e-commerce shop and a built-in messaging system for players.
 
 **🛠️ Tech Stack:**
