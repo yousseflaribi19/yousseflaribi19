@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+👋,+I'm+Mohamed+Youssef+Laribi;Tech+Explorer+|+Passionate+About+Creating+And+Collaborating+On+Innovative+Web+Apps!;&center=true&size=28&color=006699&width=700&height=48&duration=3000&pause=1000&weight=700&vCenter=true">
+  <img src="https://readme-typing-svg.demolab.com?lines=Hello+👋,+I'm+Mohamed+Youssef+Laribi;Tech+Explorer+|+Passionate+About+Creating+And+Collaborating+On+Innovative+Web+Apps!;&center=true&size=28&color=006699&width=700&height=48&duration=3000&pause=1000&weight=700&vCenter=true">
 </p>
 
 ---
