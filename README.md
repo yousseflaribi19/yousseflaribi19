@@ -17,7 +17,7 @@
 ## 🌐 Connect with Me
 - 📫 **Email:** yousseflaribi2004@gmail.com 
 - 🌐 **My Resume:**
-  - [ATS Compatible CV](https://github.com/Linaezzar1/EzzarLina_Academic_CV.pdf.git)
+  - [ATS Compatible CV](https://github.com/yousseflaribi19/MohamedYoussefLaribi_Academic_CV.pdf.git)
 - 📱 **Social:**
   - [LinkedIn](https://www.linkedin.com/in/mohamed-youssef-laribi-5051b232b/)
     
