@@ -66,7 +66,7 @@
 ### Yperyon_Stage (May 2025 – Present)
 
 **Overview:** 
-- Developed the full-stack platform **Sexo** (React Native / NestJS / React) for the Ministry of Education, providing interactive sexual education with secure APIs, a dashboard, and architecture meeting confidentiality standards.
+
 - Built the service marketplace **Vallauris** (NestJS / Next.js): role-based dashboards, multi-vendor management, integrated payments, for the French region.
 
 ### BICC_Stage de perfectionnement (Jan 2025 – Feb 2025)
